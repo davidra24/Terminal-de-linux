@@ -29,4 +29,6 @@ STDIN(0)--->| script |------+
 ##Standar input
 echo 4
 ##Starndar error y standar output
+## 2> STUDERR
+## 1>STUDOUT
 2> errores 1> resultado
